@@ -1,0 +1,6 @@
+[SlaveNode]
+TestNode ansible_host=107.21.72.239
+
+[SlaveNode:vars]
+ansible_user=ubuntu
+ansible_python_interpreter=/usr/bin/python3.9
